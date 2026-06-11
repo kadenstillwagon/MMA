@@ -2,7 +2,7 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Paper](https://img.shields.io/badge/Paper-Arxiv-red.svg)](https://arxiv.org)
+[![Paper](https://img.shields.io/badge/Paper-Arxiv-red.svg)](https://arxiv.org/abs/2606.10107)
 
 Maximum Matching Accuracy (MMA) is a continuous, threshold-free metric for instance segmentation evaluation. It utilizes maximum bipartite matching to find a globally optimal one-to-one assignment between Ground Truth and Predicted masks and uses pixel-level normalization. 
 
